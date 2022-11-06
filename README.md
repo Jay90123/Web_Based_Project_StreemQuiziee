@@ -18,4 +18,4 @@ Final Result:
 Previous Results:
 ![Screenshot (37)](https://user-images.githubusercontent.com/109717361/200184217-35db2178-e868-4710-ba80-5c9221b6cbd8.png)
 
-![Screenshot (37)](https://user-images.githubusercontent.com/109717361/200184957-fcf5ca7f-0bcc-4714-8a69-cb34b12b7923.png)
+
